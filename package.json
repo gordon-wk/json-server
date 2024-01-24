@@ -24,7 +24,8 @@
     "test": "npm run css && node --import tsx/esm --test src/*.test.ts",
     "lint": "eslint src --ext .ts --ignore-path .gitignore",
     "prepare": "husky install",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "json:server": "json-server --watch db.json"
   },
   "keywords": [],
   "author": "typicode <typicode@gmail.com>",
@@ -51,6 +52,7 @@
     "dot-prop": "^8.0.2",
     "eta": "^3.2.0",
     "inflection": "^3.0.0",
+    "json-server": "^1.0.0-alpha.22",
     "json5": "^2.2.3",
     "lowdb": "^7.0.1",
     "milliparsec": "^2.3.0",

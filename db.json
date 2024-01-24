@@ -1,5 +1,5 @@
 {
-    "totalPandingApprovals/:email": {
+    "totalPandingApprovals": {
         "total": 21,
         "error": null
     }

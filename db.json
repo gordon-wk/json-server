@@ -9,6 +9,13 @@
             "id": "kazafsiu@wahkwong.com.hk",
             "total": 10,
             "error": null
+        },
+        {
+          "total": null,
+          "error": {
+            "code": "email_not_found",
+            "message": "Email not found"
+          }
         }
     ]
 }

@@ -13,7 +13,7 @@
         {
           "total": null,
           "error": {
-            "code": "email_not_found",
+            "code": "",
             "message": "Email not found"
           }
         }

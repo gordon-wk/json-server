@@ -17,7 +17,7 @@
           }
         }
     ],
-    "getAccessList/gordonlui@wahkwong.com.hk": {
+    "getAccessList": {
       "data": {
           "Wah Kwong All-in-one Approval Platform": {
               "All In One Approval": "vue_general_control.php?actionType=accessAllInOne&fromIntranet=true"

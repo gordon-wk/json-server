@@ -13,7 +13,7 @@
         {
           "error": {
             "code": "",
-            "message": "Email no found"
+            "message": "Email not found"
           }
         }
     ]

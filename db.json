@@ -1,5 +1,5 @@
 {
-    "totalPandingApprovals": [
+    "totalPandingApprovals/:id": [
         {
             "id": "gordonlui@wahkwong.com.hk",
             "total": 21,

@@ -1,13 +1,15 @@
 {
     "totalPandingApprovals": [
-        {
-            "id": "gordonlui@wahkwong.com.hk",
-            "total": 21,
+            "data": {
+                "id": "gordonlui@wahkwong.com.hk",
+                "total": -1
+            },
             "error": null
-        },
         {
-            "id": "kazafsiu@wahkwong.com.hk",
-            "total": 10,
+            "data": {
+                "id": "kazafsiu@wahkwong.com.hk",
+                "total": -1
+            },
             "error": null
         },
         {

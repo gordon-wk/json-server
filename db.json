@@ -70,64 +70,6 @@
                         "name": "CTM Administration",
                         "url": "oyster_ctm_agent.php"
                     }
-                ],
-                "Wah Kwong Narwhal": [
-                    {
-                        "icon": "report.png",
-                        "identifier": "9",
-                        "name": "Vessel Reports",
-                        "url": "narwhal.php"
-                    },
-                    {
-                        "icon": "charter.png",
-                        "identifier": "14",
-                        "name": "Charter Party",
-                        "url": "narwhal_cp.php"
-                    },
-                    {
-                        "icon": "settlement.png",
-                        "identifier": "15",
-                        "name": "CP Payment Settlement",
-                        "url": "narwhal_cp_paymentSettlement.php"
-                    },
-                    {
-                        "icon": "refund.png",
-                        "identifier": "16",
-                        "name": "CP Payment Refund",
-                        "url": "narwhal_cp_paymentRefund.php"
-                    },
-                    {
-                        "icon": "report.png",
-                        "identifier": "9",
-                        "name": "View P & L Report",
-                        "url": "narwhal_report_pl_report.php"
-                    },
-                    {
-                        "icon": "report.png",
-                        "identifier": "9",
-                        "name": "View Weekly Position Report",
-                        "url": "narwhal_report_wp_report.php"
-                    },
-                    {
-                        "icon": "broker.png",
-                        "identifier": "17",
-                        "name": "Charterer & Broker Management",
-                        "url": "narwhal_cp_chartererBroker.php"
-                    }
-                ],
-                "Wah Kwong Octopus": [
-                    {
-                        "icon": "view.png",
-                        "identifier": "4",
-                        "name": "View Certificates",
-                        "url": "octopus_class_certificate.php"
-                    },
-                    {
-                        "icon": "surveys.png",
-                        "identifier": "5",
-                        "name": "View Surveys",
-                        "url": "octopus_class_survey.php"
-                    }
                 ]
             },
             "error": null

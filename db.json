@@ -52,6 +52,20 @@
                         "name": "Approve CTM Request",
                         "url": "app/approval?approvalType=CTM"
                     }
+                ],
+                "Wah Kwong Octopus": [
+                    {
+                        "icon": "view.png",
+                        "identifier": "4",
+                        "name": "View Certificates",
+                        "url": "octopus_class_certificate.php"
+                    },
+                    {
+                        "icon": "surveys.png",
+                        "identifier": "5",
+                        "name": "View Surveys",
+                        "url": "octopus_class_survey.php"
+                    }
                 ]
             },
             "error": null

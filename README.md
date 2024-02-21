@@ -188,3 +188,5 @@ json-server -s ./static -s ./node_modules
 This project uses the [Fair Source License](https://fair.io/). Note: Only organizations with 3+ users need to contribute a small amount through sponsorship [sponsor](https://github.com/sponsors/typicode) for usage. This license helps keep the project sustainable and healthy, benefiting everyone.
 
 For more information, FAQs, and the rationale behind this, visit [https://fair.io/](https://fair.io/).
+
+#https://my-json-server.typicode.com/gordon-wk/json-server

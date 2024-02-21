@@ -4,10 +4,14 @@
             "data": {
                 "id": "gordonlui@wahkwong.com.hk",
                 "total": 21,
+                "color": "#00c0ef",
+                "icon": "fa-solid fa-circle-plus",
                 "system": [
                     {
                         "name": "All In One Approval",
                         "total": 21,
+                        "color": "#00a65a",
+                        "icon": "fa-solid fa-network-wired",
                         "url": "https://wk.wahkwong.com.hk/loginBySharePoint.php?location=vue_general_control.php?actionType=accessAllInOne&fromIntranet=true"
                     }
                 ],

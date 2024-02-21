@@ -1,5 +1,10 @@
 {
-    "totm": [
+    "totalPandingApprovals": [
+        {
+            "data": {
+                "id": "gordonlui@wahkwong.com.hk",
+                "total": 21,
+                "system": [
                     {
                         "name": "All In One Approval",
                         "total": 21,

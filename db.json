@@ -51,24 +51,6 @@
                         "identifier": "0",
                         "name": "Approve CTM Request",
                         "url": "app/approval?approvalType=CTM"
-                    },
-                    {
-                        "icon": "review.png",
-                        "identifier": "11",
-                        "name": "Review CTM Request",
-                        "url": "oyster_ctm_request.php?type=review"
-                    },
-                    {
-                        "icon": "report.png",
-                        "identifier": "9",
-                        "name": "View Reports",
-                        "url": "oyster_ctm_report.php"
-                    },
-                    {
-                        "icon": "admin.png",
-                        "identifier": "12",
-                        "name": "CTM Administration",
-                        "url": "oyster_ctm_agent.php"
                     }
                 ]
             },
